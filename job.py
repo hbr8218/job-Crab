@@ -106,7 +106,7 @@ for page_no in tqdm(range(10,600,10)):
 
 
 
-print(page_count)
+print("Number of pages scrapped: ",page_count)
 
 # for each_div in soup.findAll('div',class_="title"):
 #     print(each_div.a.text)
