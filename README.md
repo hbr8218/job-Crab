@@ -14,6 +14,9 @@ A job's portal scrapper
 ## Overview
 Job Crab is job portal scapper of a job portal website which works by taking user's given job's skill and location where he/she want to look on. It yeilds informations of the jobs with various job's attributes like job's title, location, salary, company name and ratings from first fifty web pages of the vary job portal website and saves all information in a csv file. 
 
+
+![job_crab](https://user-images.githubusercontent.com/42790586/88427279-40c9ff80-ce10-11ea-9814-ccd98350cd59.gif)
+
 ## Motivation
 I feel that it would be easier for students to compare amongst various jobs by just looking at the csv file and thus could apply for the jobs accordingly. Also, I being a Machine leaning Enthusiast, it is necessary for me to have the skill of web scapping so that as to build my own dataset for any machine learning project
 
